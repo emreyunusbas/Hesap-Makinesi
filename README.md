@@ -8,6 +8,6 @@ Bu repo [Patika.dev](https://www.patika.dev/tr) üzerinden eğitimini almakta ol
 
 İçerisinde bir adet README dosyası, bir adet de Main.java barındırıyor.
 
-#Patika Dev Profile
+## Patika Dev Profile
 
 [Yunus Emre BAŞ](https://app.patika.dev/shqiptarbas)
