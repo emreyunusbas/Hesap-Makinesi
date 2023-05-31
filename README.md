@@ -10,4 +10,4 @@ Bu repo [Patika.dev](https://www.patika.dev/tr) üzerinden eğitimini almakta ol
 
 ### Patika Dev Profile
 
-[Yunus Emre BAŞ](https://app.patika.dev/shqiptarbas)
+**[Yunus Emre BAŞ](https://app.patika.dev/shqiptarbas)**
